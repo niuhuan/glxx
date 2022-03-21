@@ -18,5 +18,5 @@
 - https://github.com/niuhuan/jasmine
 - https://github.com/niuhuan/pikapika
 - https://github.com/niuhuan/nhentai-cross
-- https://github.com/niuhuan/pixiv
+- https://github.com/niuhuan/pixiv-cross
 
