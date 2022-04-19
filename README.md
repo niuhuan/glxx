@@ -13,7 +13,7 @@
 
 ## 相关项目或源码地址
 
-本仓库是由作者其他项目连接而成
+本仓库由作者其他项目~~缝合~~连接而成
 
 - https://github.com/niuhuan/jasmine
 - https://github.com/niuhuan/pikapika
