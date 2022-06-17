@@ -5,7 +5,7 @@
 绅士集结 - 跨平台 - 跨服务器
 
 - 支援平台 : Android / iOS / MacOS / Windows / Linux
-- 支援资源 : 禁漫天堂 / 哔咔漫画 / NHentai / PIXIV
+- 支援资源 : 禁漫天堂 / 哔咔漫画 / NHentai / PIXIV / 绅士漫画
 
 ## 项目截图
 
